@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <ec-card>
       <ec-card-body>
-        Hello, world!
+        <ec-datepicker/>
       </ec-card-body>
     </ec-card>
   </div>
